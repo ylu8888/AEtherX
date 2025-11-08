@@ -49,9 +49,6 @@ AEtherX is a full stack question-and-answer website for programmers, similar to 
 
 ![image](https://github.com/Aadith2022/fakestack/assets/113648765/d68efc54-062b-44ab-85fe-adc2d108011c)
 
-## Admin Account
-
-![image](https://github.com/Aadith2022/fakestack/assets/113648765/3b7291d7-1c6a-4f90-a08c-6df23988cb80)
 
 ## UML Diagram
 
