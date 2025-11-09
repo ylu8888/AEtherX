@@ -1,14 +1,14 @@
-# AEtherX
+# 🧩 AEtherX
 
 **Semester-long course project for CSE 316: Software Development**
 
 **Full-stack Q&A website for programmers, similar to Stack Overflow**
 
-* App mimics 15 features of Stack Overflow with a secure RESTful API and ensures confidentiality for 90% of API requests.
+* ⚡ App replicates 15 features of Stack Overflow with a secure RESTful API and ensures confidentiality for 90% of API requests.
 
-* Implemented the entire user login system to allow CRUD operations on the users & secured user authentication.
+* 🔐 Implemented the entire user login system to allow CRUD operations on the users & secured user authentication.
 
-* Tech Used: Our team wrote 7000+ lines of code using React, Node.js, Express, MongoDB (MERN Stack), & Tailwind CSS.
+* 💾 Tech Used: Our team wrote 7000+ lines of code using React, Node.js, Express, MongoDB (MERN Stack), & Tailwind CSS.
 
 
 ## Desktop Preview
