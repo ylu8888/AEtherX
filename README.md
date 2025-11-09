@@ -8,8 +8,6 @@
 
 * Implemented the entire user login system to allow CRUD operations on the users & secured user authentication.
 
-* Led team of 4: organized meetings, delegated tasks, helped teammates debug, created code templates. Received final grade of 100%.
-
 * Tech Used: Our team wrote 7000+ lines of code using React, Node.js, Express, MongoDB (MERN Stack), & Tailwind CSS.
 
 
