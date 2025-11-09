@@ -1,6 +1,8 @@
 # AEtherX
 
-AEtherX is a full stack question-and-answer website for programmers, similar to Stack Overflow. This semester-long project was made during my CSE 316 course (Software Development) from Aug to Dec 2023. 
+**Semester-long course project for CSE 316: Software Development**
+
+**Full-stack Q&A website for programmers, similar to Stack Overflow**
 
 * Led team of 4: organized meetings, delegated tasks, helped teammates debug, created code templates for teammates. Received final grade of 100%.
 
