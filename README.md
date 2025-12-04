@@ -4,7 +4,9 @@
 
 **Full-stack Q&A website for programmers, similar to Stack Overflow**
 
-* ⚡ App replicates 15 features of Stack Overflow with a secure RESTful API and ensures confidentiality for 90% of API requests.
+* ⚡ App replicates over 15 features of Stack Overflow with a secure RESTful API
+
+* ⚙️ Features voting system, tagging, reputation, pagination, admin moderation, role-based access
 
 * 🔐 Implemented the entire user login system to allow CRUD operations on the users & secured user authentication.
 
