@@ -1,6 +1,6 @@
 # 🧩 AEtherX
 
-**Full-stack Q&A website for programmers, similar to Stack Overflow**
+**Full-stack Q&A website for programmers**
 
 * ⚡ App replicates 20+ features of Stack Overflow with a secure RESTful API
 
