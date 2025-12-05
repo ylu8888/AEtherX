@@ -1,10 +1,8 @@
 # 🧩 AEtherX
 
-**Semester-long course project for CSE 316: Software Development**
-
 **Full-stack Q&A website for programmers, similar to Stack Overflow**
 
-* ⚡ App replicates over 15 features of Stack Overflow with a secure RESTful API
+* ⚡ App replicates 20+ features of Stack Overflow with a secure RESTful API
 
 * ⚙️ Features voting system, tagging, reputation, pagination, admin moderation, role-based access
 
